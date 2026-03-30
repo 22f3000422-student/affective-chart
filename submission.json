@@ -1,0 +1,7 @@
+{
+  "prompt": "A large empty room filled with hundreds of identical baby cradles arranged in neat rows, stretching far into the distance. The closest cradles are clearly visible and softly lit, while the rows fade into darkness and disappear, symbolizing loss. No people, no text. Clean composition, strong depth perspective, soft natural lighting, muted colors, emotional and quiet atmosphere, documentary realism, high detail, 4k",
+  "model": "Ideogram 2",
+  "dataset_name": "UNICEF Child Mortality Estimates",
+  "dataset_url": "https://data.unicef.org/topic/child-survival/under-five-mortality/",
+  "insight": "Child mortality has declined globally, yet millions of preventable deaths still occur each year."
+}
